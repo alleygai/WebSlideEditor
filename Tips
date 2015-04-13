@@ -2,3 +2,14 @@ getContents: function (a, c) {
 setContents: function (a, d, e) {
 
 jsbeautifier.org
+
+edit below code to hide Open,Save,Save as function
+    //    j.push(new e({
+    //    title: f.open,
+    //    modal: h,
+    //    handler: d.open
+    //})), j.push(new b(h, c, g)), j.push(new e({
+    //    title: f.save_as,
+    //    modal: h,
+    //    handler: d.save
+    //})), 
