@@ -16,3 +16,7 @@ edit below code to hide Open,Save,Save as function
 
 click 'open' in menu the modal show
 a.modal ? a.modal.show(a.handler, a.title) : a.handler(a.model)
+
+delete code 
+<button class="btn dropdown-toggle btn-success iconBtnsSplit" data-toggle="dropdown">\r\n  <span class="caret whiteCaret"></span>
+to hide other js lib in the right top conner
