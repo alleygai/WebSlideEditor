@@ -13,3 +13,6 @@ edit below code to hide Open,Save,Save as function
     //    modal: h,
     //    handler: d.save
     //})), 
+
+click 'open' in menu the modal show
+a.modal ? a.modal.show(a.handler, a.title) : a.handler(a.model)
