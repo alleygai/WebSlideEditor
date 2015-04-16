@@ -1,7 +1,9 @@
 getContents: function (a, c) {
 setContents: function (a, d, e) {
 
+un minify JS&CSS
 jsbeautifier.org
+http://www.jspretty.com/
 
 edit below code to hide Open,Save,Save as function
     //    j.push(new e({
