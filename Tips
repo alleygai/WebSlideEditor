@@ -22,3 +22,8 @@ a.modal ? a.modal.show(a.handler, a.title) : a.handler(a.model)
 delete code 
 <button class="btn dropdown-toggle btn-success iconBtnsSplit" data-toggle="dropdown">\r\n  <span class="caret whiteCaret"></span>
 to hide other js lib in the right top conner
+
+chrome local storage location
+http://stackoverflow.com/questions/8634058/where-the-sessionstorage-and-localstorage-stored
+Chrome on windows:
+%LocalAppData%\Google\Chrome\User Data\Default\Local Storage\
