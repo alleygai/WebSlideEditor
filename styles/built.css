@@ -1153,6 +1153,7 @@ body {
 	display: inline-block;
 	width: 100px;
 	height: 32px;
+	padding-top: 5px;
 }
 
 .logo-holder {
