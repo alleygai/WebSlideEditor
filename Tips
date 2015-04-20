@@ -27,3 +27,6 @@ chrome local storage location
 http://stackoverflow.com/questions/8634058/where-the-sessionstorage-and-localstorage-stored
 Chrome on windows:
 %LocalAppData%\Google\Chrome\User Data\Default\Local Storage\
+
+modify default display language 
+return g.registerHelper("lang", function (a) {
