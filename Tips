@@ -33,3 +33,6 @@ return g.registerHelper("lang", function (a) {
 
 Change slide well in left 
 edit slideWell in built.css to change backgroud
+
+change nav bar
+edit .navbar-inverse .navbar-inner { class in main.css to change nav top bar back-color
