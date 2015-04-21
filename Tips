@@ -30,3 +30,6 @@ Chrome on windows:
 
 modify default display language 
 return g.registerHelper("lang", function (a) {
+
+Change slide well in left 
+edit slideWell in built.css to change backgroud
